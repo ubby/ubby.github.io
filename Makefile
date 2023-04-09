@@ -1,11 +1,11 @@
 # memebox generating
 
-PAGELANG?=en
+PAGELANG?=zh
 
-TITLE?=MemeBox
-DESC?=Joy for Everyone
+TITLE?=航天模拟器study_MemeBox
+DESC?=航天模拟器名人刁图
 TDESC?=> _Text memes description._
-FOOTER?=** Footer **
+FOOTER?=空指针
 
 ifeq (${PAGELANG}, zh)
 T_MEMEPIC?=图片梗
